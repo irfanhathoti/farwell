@@ -1,0 +1,19 @@
+body
+{
+    background-image: url(invitation\ car.jpg);
+    background-repeat: round;
+}
+.pop
+{
+    font-weight: 900;
+    font-size: xx-large;
+    color: goldenrod;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 2px 4px rgb(155, 16, 85);
+}
+.p
+{
+color: goldenrod;
+
+}
